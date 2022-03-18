@@ -5,11 +5,19 @@
     <link href="http://example.com" />
     <updated>2022-03-17T01:52:24.000Z</updated>
     <category term="hello" />
+    <category term="疫情" />
     <entry>
         <id>http://example.com/2022/03/17/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%E5%AF%B9%E5%BA%94%E6%8E%AA%E6%96%BD/</id>
         <title>疫情防控措施对应措施</title>
         <link rel="alternate" href="http://example.com/2022/03/17/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%E5%AF%B9%E5%BA%94%E6%8E%AA%E6%96%BD/"/>
         <content type="html">&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;s&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2022 年 3 月 18 日 16:40:25&lt;/p&gt;
+&lt;p&gt;欧冶：&lt;/p&gt;
+&lt;p&gt;大家好，应急办通知，各供应商到湛江当天需及时报备行程，隔离 7 天，第 7 天核酸检测出报告后才能办理进厂手续，谢谢支持！&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2022 年 3 月 14 日&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;早会&lt;/p&gt;
 &lt;p&gt;异地反湛 - 居家检测 7 天（第 1 天和第 7 天核酸），中高风险劝退。&lt;/p&gt;
@@ -52,6 +60,7 @@
 自我健康监测：健康管理对象自己开展健康监测，外出时做好个人防护，佩戴口罩；避免参加聚集性活动；出现发热、干咳等十大症状，及时到定点医院排查。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/saiong/tuchuang/img/20220317094644.png&#34; alt=&#34;反湛措施&#34;&gt;&lt;/p&gt;
 </content>
+        <category term="疫情" />
         <updated>2022-03-17T01:52:24.000Z</updated>
     </entry>
     <entry>

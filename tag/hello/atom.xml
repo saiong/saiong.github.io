@@ -5,6 +5,7 @@
     <link href="http://example.com" />
     <updated>2022-03-16T12:34:22.000Z</updated>
     <category term="hello" />
+    <category term="疫情" />
     <entry>
         <id>http://example.com/2022/03/16/hello-world/</id>
         <title>Hello World</title>
