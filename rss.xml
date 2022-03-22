@@ -5,24 +5,70 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 17 Mar 2022 09:52:24 +0800</pubDate>
-        <lastBuildDate>Thu, 17 Mar 2022 09:52:24 +0800</lastBuildDate>
+        <pubDate>Tue, 22 Mar 2022 14:06:06 +0800</pubDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:06:06 +0800</lastBuildDate>
         <category>hello</category>
-        <category>疫情</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/03/22/%E4%BC%8A%E9%A1%BF2022%E5%8F%91%E5%B8%83%E4%BC%9A/</guid>
+            <title></title>
+            <link>http://example.com/2022/03/22/%E4%BC%8A%E9%A1%BF2022%E5%8F%91%E5%B8%83%E4%BC%9A/</link>
+            <pubDate>Tue, 22 Mar 2022 14:06:06 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;市场前景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#市场前景&#34;&gt;#&lt;/a&gt; 市场前景&lt;/h1&gt;
+&lt;p&gt;10% 的增长规模，胶体蓄电池，30 分钟续航时间。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/raw/main/img/image-20220322140648486.png&#34; alt=&#34;image-20220322140648486&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;工业分部&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工业分部&#34;&gt;#&lt;/a&gt; 工业分部&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/raw/main/img/image-20220322140818142.png&#34; alt=&#34;image-20220322140818142&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/raw/main/img/20220322140951.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/raw/main/img/20220322141053.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vc2Fpb25nL3R1Y2h1YW5nL3Jhdy9tYWluL2ltZy9pbWFnZS0yMDIyMDMyMjE0MDgxODE0Mi5wbmc=&#34;&gt;https://gitee.com/saiong/tuchuang/raw/main/img/image-20220322140818142.png&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/raw/main/img/image-20220322141413159.png&#34; alt=&#34;image-20220322141413159&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/img/20220322141531.png&#34; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/saiong/tuchuang/img/image-20220322141755259.png&#34; alt=&#34;image-20220322141755259&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/03/21/gitee%E5%90%8C%E6%AD%A5%E4%BB%93%E5%BA%93/</guid>
+            <title></title>
+            <link>http://example.com/2022/03/21/gitee%E5%90%8C%E6%AD%A5%E4%BB%93%E5%BA%93/</link>
+            <pubDate>Mon, 21 Mar 2022 16:52:06 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;git clone &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vc2Fpb25nL3R1Y2h1YW5nLmdpdA==&#34;&gt;https://gitee.com/saiong/tuchuang.git&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;#克隆仓库到本地&lt;/p&gt;
+&lt;p&gt;git add&lt;/p&gt;
+&lt;p&gt;git commit -m &#39;initial updates&#39;&lt;/p&gt;
+&lt;p&gt;git push origin main&lt;/p&gt;
+&lt;p&gt;#main 为仓库分支&lt;br&gt;
+ // 坚果云手机版更新的&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/03/21/2022-03-20_10-42-44/</guid>
+            <title></title>
+            <link>http://example.com/2022/03/21/2022-03-20_10-42-44/</link>
+            <pubDate>Mon, 21 Mar 2022 16:52:06 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;坚果云 markdown 创建&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/03/20/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%90%AF%E5%86%99%E4%BD%9C/</guid>
+            <title>普通人如何从零开启写作</title>
+            <link>http://example.com/2022/03/20/%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%90%AF%E5%86%99%E4%BD%9C/</link>
+            <pubDate>Sun, 20 Mar 2022 20:31:26 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;基础准备&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础准备&#34;&gt;#&lt;/a&gt; 基础准备&lt;/h2&gt;
+&lt;p&gt;破除写作的心理障碍，不要觉得文笔有限，自由练习才是最重要的。&lt;/p&gt;
+&lt;h2 id=&#34;开启输入雷达&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开启输入雷达&#34;&gt;#&lt;/a&gt; 开启输入雷达&lt;/h2&gt;
+&lt;p&gt;收集生活中可见的素材，记录对它们的感悟和认知，便于写作时运用。&lt;/p&gt;
+&lt;h2 id=&#34;输出练习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#输出练习&#34;&gt;#&lt;/a&gt; 输出练习&lt;/h2&gt;
+&lt;p&gt;多写多练习文章，让朋友帮看不问此文章的好坏与建议，记录下朋友不明白的点进行修正。&lt;/p&gt;
+&lt;h2 id=&#34;实战提升&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实战提升&#34;&gt;#&lt;/a&gt; 实战提升&lt;/h2&gt;
+&lt;p&gt;多投稿，将文章发往各类写作平台。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2022/03/17/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%E5%AF%B9%E5%BA%94%E6%8E%AA%E6%96%BD/</guid>
             <title>疫情防控措施对应措施</title>
             <link>http://example.com/2022/03/17/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%E5%AF%B9%E5%BA%94%E6%8E%AA%E6%96%BD/</link>
-            <category>疫情</category>
             <pubDate>Thu, 17 Mar 2022 09:52:24 +0800</pubDate>
             <description><![CDATA[ &lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;s&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;2022 年 3 月 18 日 16:40:25&lt;/p&gt;
-&lt;p&gt;欧冶：&lt;/p&gt;
-&lt;p&gt;大家好，应急办通知，各供应商到湛江当天需及时报备行程，隔离 7 天，第 7 天核酸检测出报告后才能办理进厂手续，谢谢支持！&lt;/p&gt;
-&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;2022 年 3 月 14 日&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;早会&lt;/p&gt;
 &lt;p&gt;异地反湛 - 居家检测 7 天（第 1 天和第 7 天核酸），中高风险劝退。&lt;/p&gt;
